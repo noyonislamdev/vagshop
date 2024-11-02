@@ -888,7 +888,6 @@ nav {
     padding-bottom: 30px;
 }
 .single_flash_area {
-    width: 318px;
     padding: 0px 30px;
     border-radius: 10px;
     border: 1px solid #DCDCDC;
@@ -929,7 +928,6 @@ li.single_flash_area_color {
     text-decoration: line-through;
 }
 .single_flash_area_btn a {
-    width: 255px;
     height: 38px;
     line-height: 38px;
     text-align: center;
@@ -1070,6 +1068,13 @@ li.single_flash_area_color {
 .popular_products_area {
     position: relative;
 }
+.promo_content_area {
+	position: absolute;
+	top: 70px;
+	left: 50%;
+	text-align: center;
+	transform: translateX(-50%);
+}
 .popular_products_content_area h4 {
     color: #FFF;
     font-size: 32px;
@@ -1082,8 +1087,9 @@ li.single_flash_area_color {
     text-decoration-line: underline;
 }
 .popular_products_content_area a {
-    background-color: #fff;
-    color: #01693A;
+	background-color: #fff;
+	color: #01693A;
+	display: inline-block;
 }
 .popular_products_content_area {
     top: 110px;
