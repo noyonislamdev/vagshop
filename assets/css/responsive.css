@@ -1,0 +1,24 @@
+/* Responsive Styles for Tablet and Mobile (Up to 1024px) */
+@media only screen and (max-width: 1024px) {
+
+}
+/* For screens larger than 1024px */
+@media (min-width: 1025px) {
+
+}
+
+@media only screen and (max-width: 992px) {
+
+}
+
+@media only screen and (min-width: 768px){
+
+
+}
+
+@media only screen and (max-width: 360px) {
+
+
+
+}
+
