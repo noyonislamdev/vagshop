@@ -1151,7 +1151,32 @@ li.single_popular_products_color {
 /* start recommended */
 
 
-
-
-
 /* end recommended */
+
+/* start discount */
+.recommended_sale img {
+    padding-top: 15px;
+}
+.recommended_sale h6 {
+    text-align: center;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 11px;
+    font-weight: 400;
+    border-radius: 20px 5px;
+    background: #E84946;
+    margin-top: 20px;
+    padding: 5px 18px;
+    display: inline-block;
+}
+.recommended_btn a {
+    height: 40px;
+    line-height: 40px;
+    color: #01693A;
+    font-size: 16px;
+    font-weight: 400;
+    border-radius: 30px;
+    border: 1px solid rgba(1, 105, 58, 0.08);
+    background: rgba(1, 105, 58, 0.08);
+}
+/* end discount */
