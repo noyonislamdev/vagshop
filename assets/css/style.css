@@ -1118,7 +1118,7 @@ li.single_popular_products_color {
     border: 1px solid #01693A;
 }
 .single_popular_products {
-    padding: 25px;
+    padding: 20px 25px;
     border-radius: 10px;
     border: 1px solid #DCDCDC;
     background: #FFF;
