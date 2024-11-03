@@ -1049,7 +1049,7 @@ li.single_flash_area_color {
 .popular_products_title h4 {
     color: #222;
     font-size: 42px;
-    font-style: normal;
+    font-weight: 700;
 }
 .popular_products_title a {
     float: inline-end;
@@ -1146,7 +1146,12 @@ li.single_popular_products_color {
 .single_popular_products_img img {
     padding-right: 15px;
 }
-
-
-
 /* end popular_products */
+
+/* start recommended */
+
+
+
+
+
+/* end recommended */
