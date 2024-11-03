@@ -1149,11 +1149,6 @@ li.single_popular_products_color {
 /* end popular_products */
 
 /* start recommended */
-
-
-/* end recommended */
-
-/* start discount */
 .recommended_sale img {
     padding-top: 15px;
 }
@@ -1179,4 +1174,57 @@ li.single_popular_products_color {
     border: 1px solid rgba(1, 105, 58, 0.08);
     background: rgba(1, 105, 58, 0.08);
 }
+/* end recommended */
+
+/* start discount */
+.discount_area {
+    width: 100%;
+    background-image: url(../img/discount/1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 30px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 50px;
+}
+.discount_area h6 {
+    border-radius: 50px;
+    background: #FF8A00;
+    display: inline-block;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 8px 35px;
+}
+.discount_area span {
+    color: #FFF;
+    font-size: 37px;
+    font-weight: 400;
+}
+.discount_area h4 {
+    color: #FFF;
+    font-size: 37px;
+    font-weight: 700;
+}
+.discount_area p {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+}
+.discount_area a {
+    border-radius: 30px;
+    border: 1px solid #FFF;
+    background: #FFF;
+    color: #01693A;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 8px 35px;
+}
+
+
+
+
+
+
 /* end discount */
