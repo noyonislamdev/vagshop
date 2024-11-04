@@ -1221,10 +1221,30 @@ li.single_popular_products_color {
     font-weight: 400;
     padding: 8px 35px;
 }
-
-
-
-
-
-
 /* end discount */
+
+/* start new nraival */
+.new_nraival_title h2 {
+    color: #222;
+    font-size: 42px;
+    font-weight: 700;
+}
+.single_new_nraival_icon li {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 16px;
+    color: #01693A;
+    border-radius: 125%;
+    background: rgba(1, 105, 58, 0.18);
+    margin-right: 10px;
+}
+.single_new_nraival_icon i {
+    color: #01693A;
+}
+.single_new_nraival img {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+/* end new nraival */
