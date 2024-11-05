@@ -114,6 +114,9 @@ a{
 .pt_30{
 	padding-top: 30px;
 }
+.pt_35{
+	padding-top: 35px;
+}
 .pt_40{
 	padding-top: 40px;
 }
@@ -1276,9 +1279,8 @@ section#video {
 }
 /* end new nraival */
 
-/* start testimonials */
 section#testimonials {
-    transform: translateY(-30%);
+    transform: translateY(-25%);
 }
 .testimonials_area {
     background-image: url(../img/testimonials/backgroung.png);
@@ -1310,9 +1312,34 @@ section#testimonials {
     font-size: 20px;
     font-weight: 400;
 }
-
 /* end testimonials */
 
+/* start blog */
+.single_blog {
+    padding: 27px;
+    border-radius: 20px;
+    border: 1px solid #DDD;
+}
+.single_blog h4 {
+    color: #222;
+    font-size: 22px;
+    font-weight: 700;
+}
+.single_blog_area li {
+    display: inline-block;
+}
+.single_blog_area a {
+    color: #555;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+}
+.single_blog_area_icon i {
+    background-color: #D1E4DB;
+    font-size: 20px;
+    padding: 15px;
+    border-radius: 50%;
+}
 
-
+/* end blog */
 
