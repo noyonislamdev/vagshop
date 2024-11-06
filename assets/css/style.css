@@ -1446,11 +1446,19 @@ li.border {
 .single_footer_content_are li {
     padding-bottom: 15px;
 }
+.single_footer_content_are p {
+    padding-bottom: 15px;
+}
 .single_footer_content_are i {
     padding-right: 10px;
     line-height: 204%;
 }
 .single_footer h4 {
+    color: #222;
+    font-size: 24px;
+    font-weight: 700;
+}
+.single_footer_tac h4 {
     color: #222;
     font-size: 24px;
     font-weight: 700;
@@ -1462,7 +1470,22 @@ li.border {
     font-weight: 500;
     line-height: 204%;
 }
-
+.end_footer {
+    background-color: #001728;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.footer_copyright p {
+    color: #fff;
+    font-size: 12px;
+}
+.end_footer_content a {
+    color: #fff;
+}
+.end_footer_content li {
+    display: inline-block;
+    padding-right: 15px;
+}
 
 
 
