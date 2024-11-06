@@ -1480,13 +1480,13 @@ li.border {
     font-size: 12px;
 }
 .end_footer_content a {
+    font-size: 14px;
     color: #fff;
 }
 .end_footer_content li {
     display: inline-block;
-    padding-right: 15px;
+    padding-right: 8px;
 }
-
 
 
 
