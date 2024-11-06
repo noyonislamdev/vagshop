@@ -964,6 +964,39 @@ li.single_flash_area_color {
 }
 /* end_flash_sale */
 
+
+
+
+
+
+
+
+.tab-content>.active {
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* start_choose_us */
 
 .choose_us_title h2 {
