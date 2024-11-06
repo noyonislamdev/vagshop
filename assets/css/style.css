@@ -966,13 +966,12 @@ li.single_flash_area_color {
 
 
 
-
-
-
-
-
-.tab-content>.active {
-    display: block;
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: #fff;
+}
+.choose_us_content_area>.choose_us_content_area {
+    display: flex;
 }
 
 
