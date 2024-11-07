@@ -845,24 +845,29 @@ nav {
     text-align: center;
     border-radius: 10px;
 }
-.single_category_1 {
+.catcolor_1 {
     background-color: #F1F8E6;
 }
-.single_category_2 {
+.catcolor_2 {
     background-color: #E4FBE9;
 }
-.single_category_3 {
+.catcolor_3 {
     background-color: #F6FBE4;
 }
-.single_category_4 {
+.catcolor_4 {
     background-color: #FCF2E8;
 }
-.single_category_5 {
+.catcolor_5 {
     background-color: #F6EBF3;
 }
-.single_category_6 {
+.catcolor_6 {
     background-color: #FDEDEE;
 }
+.owl-carousel .owl-item img {
+    width: auto;
+    display: inline-block;
+}
+
 .single_category i {
     font-size: 50px;
     padding-top: 35px;
