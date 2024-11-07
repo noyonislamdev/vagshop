@@ -841,8 +841,7 @@ nav {
     padding-bottom: 40px;
 }
 .single_category {
-    width: 200px;
-    height: 200px;
+    padding: 30px 15px;
     text-align: center;
     border-radius: 10px;
 }
